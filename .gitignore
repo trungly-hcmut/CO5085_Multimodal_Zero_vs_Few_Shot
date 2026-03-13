@@ -27,8 +27,8 @@ dist/
 outputs/
 *.log
 
-.pdf
-.py
-.zip
+*.pdf
+*.py
+*.zip
 
 Foundation/
