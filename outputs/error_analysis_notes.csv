@@ -1,0 +1,4 @@
+sample_idx,true_label,pred_label,confidence,top_tokens,short_explanation
+799,transport,indoor,0.9687,"table, to, preparing",Mô hình bị hút bởi các tín hiệu nghiêng về 'indoor' trong caption/vùng ảnh nổi bật.
+570,water,transport,0.9649,"motorcycle, plant, backseat",Mô hình bị hút bởi các tín hiệu nghiêng về 'transport' trong caption/vùng ảnh nổi bật.
+474,sports,animals,0.9252,"dog, white, stands",Mô hình bị hút bởi các tín hiệu nghiêng về 'animals' trong caption/vùng ảnh nổi bật.

@@ -24,7 +24,6 @@ build/
 dist/
 
 # Large or generated outputs
-outputs/
 *.log
 
 *.pdf
